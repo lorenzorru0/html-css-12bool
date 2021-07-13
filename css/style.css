@@ -13,3 +13,9 @@
     background-color: #00e165;
     border: 1px solid #006cfa;
 }
+
+.row:nth-child(7), 
+.row:nth-child(15) {
+    margin-bottom: 20px;
+}
+
