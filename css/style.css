@@ -1,0 +1,9 @@
+/* Column style */
+.row div {
+    min-height: 50px;
+    line-height: 50px;
+    border: 1px solid #fff;
+    text-align: center;
+    background-color: #006cfa;
+    color: #fff;
+}
