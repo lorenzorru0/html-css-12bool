@@ -1,9 +1,15 @@
 /* Column style */
-.row div {
+[class*="col-xs"] {
     min-height: 50px;
-    line-height: 50px;
+    line-height: 30px;
+    padding: 10px;
     border: 1px solid #fff;
     text-align: center;
     background-color: #006cfa;
     color: #fff;
+}
+
+.col-nested {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
 }

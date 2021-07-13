@@ -54,6 +54,12 @@
     flex-basis: calc((100% / 12) * 12);
 }
 
+/* Grow column */
+.col-xs-grow {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
 /* Columns offset */
 .col-offset-xs-1 {
     margin-left: calc((100% / 12) * 1);
